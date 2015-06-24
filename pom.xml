@@ -12,7 +12,7 @@
 
 	<description>A simple service-provider loading facility (Java 3)</description>
 
-	<url>https://github.com/marcosemiao/jar-native-loader</url>
+	<url>https://github.com/marcosemiao/service-provider</url>
 
 	<licenses>
 		<license>
