@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.github.marcosemiao.util</groupId>
+	<groupId>com.github.marcosemiao</groupId>
 	<artifactId>service-provider</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
@@ -12,7 +12,7 @@
 
 	<description>A simple service-provider loading facility (Java 3)</description>
 
-	<url>https://github.com/marcosemiao/jar-native-loader</url>
+	<url>https://github.com/marcosemiao/service-provider</url>
 
 	<licenses>
 		<license>
