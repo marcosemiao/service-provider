@@ -1,9 +1,14 @@
 # Service Provider
 
 ## Fonctionnalités générales
-Cette librairie est une implémentation du Service Provider compatible à partir de Java 3 
+Cette librairie est une implémentation du Service Provider compatible à partir de Java 3. 
 - Facile d'utilisation, il suffit de rajouter la dépendance Maven dans votre application.
 - Disponible sur le repository central de Maven.
+
+## Remarque
+Cette implémentation est un dérivé de l'implémentation fourni dans Java 3 qui avait une  portée privée utilisée uniquement par l'api standard.
+Depuis Java 6, elle est devenue une implémentation de portée publique.
+Cette librairie est donc utile pour pouvoir utiliser le Service Provider pour Java 3, 4 et 5.
 
 ## Utilisation rapide
 
@@ -26,5 +31,3 @@ while (providers.hasNext()) {
 	final InterfaceTest impl = (InterfaceTest) providers.next();
 }
 ````
-
-On récupere un "Iterator" contenant toutes les implémentations trouvées.
