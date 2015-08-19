@@ -22,7 +22,7 @@ Cette librairie est donc utile pour pouvoir utiliser le Service Provider pour Ja
 </dependency>
 ````
 
-- Pour récuperer toutes les implémentations d'une interface il suffit de spécifier la classe de l'interface, par exemple avec une interface se nommant "interfaceTest" :
+- Pour récuperer toutes les implémentations d'une interface il suffit de spécifier la classe de l'interface, par exemple avec une interface se nommant "InterfaceTest" :
 
 ````java
 Iterator providers = fr.ms.util.Service.providers(InterfaceTest.class);
