@@ -6,7 +6,7 @@ Cette librairie est une implémentation du Service Provider compatible à partir
 - Disponible sur le repository central de Maven.
 
 ## Remarque
-Cette implémentation est un dérivé de l'implémentation fourni dans Java 3 qui avait une  portée privée utilisée uniquement par l'api standard.
+Cette implémentation est un dérivé de l’implémentation fournie dans Java 3 qui avait une portée privée utilisé uniquement par l'api standard.
 Depuis Java 6, elle est devenue une implémentation de portée publique.
 Cette librairie est donc utile pour pouvoir utiliser le Service Provider pour Java 3, 4 et 5.
 
