@@ -4,6 +4,7 @@
 Cette librairie est une implémentation du Service Provider compatible à partir de Java 3. 
 - Facile d'utilisation, il suffit de rajouter la dépendance Maven dans votre application.
 - Disponible sur le repository central de Maven.
+- Compatible à partir de la version Java 3.
 
 ## Remarque
 Cette implémentation est un dérivé de l’implémentation fournie dans Java 3 qui avait une portée privée utilisé uniquement par l'api standard.
